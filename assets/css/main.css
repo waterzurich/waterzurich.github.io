@@ -2513,8 +2513,8 @@
 
 		.image.fit2 {
 			display: block;
-			margin: -5em 0 -2em -4em;
-			width: 114%;
+			/*margin: 0 0 0em 0em;*/
+			width: 100%;
 			vertical-align: middle;
 		}
 
